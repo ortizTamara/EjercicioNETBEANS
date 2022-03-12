@@ -14,4 +14,7 @@ public class ProyectoGit {
         System.out.println("¡HOLA MUNDO!");
         System.out.println("Estamos aprendiendo a manejar GitHub");
     }
+    public static void aprender(String[] matriz){
+        System.out.println(matriz.toString());
+    }
 }
