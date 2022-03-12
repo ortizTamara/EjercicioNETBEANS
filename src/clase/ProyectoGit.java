@@ -12,6 +12,6 @@ public class ProyectoGit {
      */
     public static void main(String[] args) {
         System.out.println("¡HOLA MUNDO!");
+        System.out.println("Estamos aprendiendo a manejar GitHub");
     }
-    
 }
